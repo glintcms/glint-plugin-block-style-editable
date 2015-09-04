@@ -1,0 +1,41 @@
+{
+  "name": "glint-plugin-block-style-editable",
+  "version": "1.0.0",
+  "description": "Style for editable Blocks",
+  "main": "server.js",
+  "browser": "browser.js",
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-plugin-block-style-editable.git"
+  },
+  "keywords": [
+    "editable",
+    "contenteditable",
+    "inline",
+    "editable",
+    "text",
+    "glint",
+    "plugin",
+    "block",
+    "style"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "dependencies": {
+    "format": "^0.2.1",
+    "insert-css": "^0.2.0",
+    "utils-merge": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-plugin-block-style-editable/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-plugin-block-style-editable"
+}
