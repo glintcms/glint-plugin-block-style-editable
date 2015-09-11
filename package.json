@@ -30,9 +30,7 @@
   "author": "Andi Neck",
   "license": "MIT",
   "dependencies": {
-    "format": "^0.2.1",
-    "insert-css": "^0.2.0",
-    "utils-merge": "^1.0.0"
+    "insert-css": "^0.2.0"
   },
   "bugs": {
     "url": "https://github.com/glintcms/glint-plugin-block-style-editable/issues"
