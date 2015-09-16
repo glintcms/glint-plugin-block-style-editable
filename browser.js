@@ -1,6 +1,7 @@
 /**
  * Module dependencies.
  */
+var debug = require('debug')('glint-plugin-block-style-editable');
 var fs = require('fs');
 var insertCss = require('insert-css');
 

@@ -30,6 +30,7 @@
   "author": "Andi Neck",
   "license": "MIT",
   "dependencies": {
+    "debug": "^2.2.0",
     "insert-css": "^0.2.0"
   },
   "bugs": {
