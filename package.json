@@ -1,6 +1,6 @@
 {
   "name": "glint-plugin-block-style-editable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Style for editable Blocks",
   "main": "server.js",
   "browser": "browser.js",
